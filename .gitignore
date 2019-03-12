@@ -5,3 +5,4 @@
 *.pyd
 .ipynb_checkpoints
 .env
+env
