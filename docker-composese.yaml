@@ -1,0 +1,6 @@
+version: '3'
+services:
+  api:
+    image: dyzsasd/speech_to_text:latest
+    ports:
+      - "5000:8890"
